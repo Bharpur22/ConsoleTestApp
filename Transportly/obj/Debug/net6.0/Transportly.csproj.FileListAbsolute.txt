@@ -1,0 +1,13 @@
+C:\Bharpur\Project\Console\transportly\bin\Debug\net6.0\Transportly.exe
+C:\Bharpur\Project\Console\transportly\bin\Debug\net6.0\Transportly.deps.json
+C:\Bharpur\Project\Console\transportly\bin\Debug\net6.0\Transportly.runtimeconfig.json
+C:\Bharpur\Project\Console\transportly\bin\Debug\net6.0\Transportly.dll
+C:\Bharpur\Project\Console\transportly\bin\Debug\net6.0\Transportly.pdb
+C:\Bharpur\Project\Console\transportly\obj\Debug\net6.0\Transportly.csproj.AssemblyReference.cache
+C:\Bharpur\Project\Console\transportly\obj\Debug\net6.0\Transportly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bharpur\Project\Console\transportly\obj\Debug\net6.0\Transportly.csproj.CoreCompileInputs.cache
+C:\Bharpur\Project\Console\transportly\obj\Debug\net6.0\Transportly.dll
+C:\Bharpur\Project\Console\transportly\obj\Debug\net6.0\refint\Transportly.dll
+C:\Bharpur\Project\Console\transportly\obj\Debug\net6.0\Transportly.pdb
+C:\Bharpur\Project\Console\transportly\obj\Debug\net6.0\Transportly.genruntimeconfig.cache
+C:\Bharpur\Project\Console\transportly\obj\Debug\net6.0\ref\Transportly.dll
